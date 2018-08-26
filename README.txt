@@ -1,6 +1,6 @@
 portugues
 execicios feitos em visualg
-usando lacos repita e enquanto
+usando o loop repita e o enquanto
 ____________________________
 English
 exercises done in visualg
